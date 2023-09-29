@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'nexa-light';
+    src: url('/nexa-font/nexa-light.ttf'),
+         url('/nexa-font/nexa_light-webfont.woff2') format('woff2'),
+         url('/nexa-font/nexa_light-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
